@@ -6,8 +6,8 @@ Duration: weekend research
 The purpose of this project was to look into technologies that I haven't used before, research them, and build a small project. I created a basic "Hello World"-style program that incorporates a for loop, an if statement, and a counter that gets incremented. I had some extra time, looked into neural networks, and did a code-along to set up a basic neural network.
 
 ## Technologies Used
--Python https://docs.conda.io/en/latest/miniconda.html
--NumPy (conda install numpy)
+- Python https://docs.conda.io/en/latest/miniconda.html
+- NumPy (conda install numpy)
 
 ## What I Learned
 tl;dr - I learned about Python syntax, what Jupyter Notebook is (though my project was completed in Visual Studio Code), and how a basic neural network works. Finding learning materials that were at an intermediate level (both math and Python/Jupyter knowledge) was difficult.
