@@ -1,4 +1,4 @@
-## New Technologies Project
+# New Technologies Project
 
 ## Description
 Duration: weekend research
